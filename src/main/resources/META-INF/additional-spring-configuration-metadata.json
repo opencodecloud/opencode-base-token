@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "app.auth-token.key",
+      "type": "java.lang.String",
+      "description": "app.auth-token.key. the default value is: adm."
+    },
+    {
+      "name": "app.auth-token.secret",
+      "type": "java.lang.String",
+      "description": "app.auth-token.secret."
+    },
+    {
+      "name": "app.auth-token.expire",
+      "type": "java.lang.String",
+      "description": "app.auth-token.expire."
+    },
+    {
+      "name": "app.auth-filter.annoys",
+      "type": "java.util.List<java.lang.String>",
+      "description": "app.auth-filter.annoys, it's a String list."
+    },
+    {
+      "name": "app.auth-filter.auths",
+      "type": "java.util.List<java.lang.String>",
+      "description": "app.auth-filter.auths, it's a String list."
+    }
+  ]
+}

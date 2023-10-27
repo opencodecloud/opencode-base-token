@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cloud.opencode.base.token.config.TokenConfig
